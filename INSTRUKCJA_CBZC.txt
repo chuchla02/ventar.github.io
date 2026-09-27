@@ -1,0 +1,68 @@
+﻿CBZC TRENER — PROGRAM PRZENOŚNY 1.9
+
+1. Wypakuj ZIP do zwykłego folderu w Windows.
+2. Otwórz CBZC_Trener.html dwuklikiem w Edge, Chrome lub Firefox. Nie uruchamiaj w podglądzie komunikatora.
+3. Program działa offline i nie wymaga instalacji.
+4. Zacznij od Pulpitu albo od Praktyka → Pliki, katalogi i nazwy.
+5. Postęp zapisuje się w przeglądarce. Po sesji kliknij Zapisz postęp. Plik JSON możesz później zaimportować na innym urządzeniu.
+6. CBZC_pliki_praktyczne.zip zawiera rzeczywiste pliki do ćwiczeń. Ten sam ZIP można wygenerować w aplikacji: Instrukcja i pliki → Pobierz prawdziwe pliki.
+
+NOWOŚCI 1.9
+P30: trzy powiązane etapy — DD/ext2, Wireshark i SQLite telefonu. 27 nowych pytań PL, 16 kontekstowych zdań EN, 7 terminów. Wybierz P30 na Pulpicie lub w Praktyce.
+ZIP ma hasło w SMS, odzyskany PDF i przesłany ZIP mają kontrolowane hashe. Dane i mapa są fikcyjne.
+
+WCZEŚNIEJSZE NOWOŚCI 1.8
+25 nowych pytań PL, 28 zdań EN z luką, 6 komunikatów błędów i 4 historie o polityce dostępu.
+English: nowa próba 38 luk + 1 komunikat + 1 historia, 50 min. Proporcje i czas są ustawieniem treningowym.
+Poprawny zakres dobrze znanych portów: 0–1023.
+
+WCZEŚNIEJSZE NOWOŚCI 1.7
+P26 CyberChef, P27 Disks/Autopsy, P28 XAMPP/Firefox/phpMyAdmin/forum, P29 EXIF/GHex/skrypt/CyberChef/VeraCrypt.
+Trzy obrazy FAT12, trzy zestawy SQL oraz rzeczywiste skrypty Python do uzupełnienia. Skrypt tworzy plik wynikowy; prawdziwy kontener VeraCrypt trzeba utworzyć samemu w kreatorze.
+Przykłady są autorskie: rodzaj handshake, kodowania i kontenera w relacji nie jest ustalony.
+
+WCZEŚNIEJSZE NOWOŚCI 1.6
+43 nowe pytania PL i 72 zdania EN z luką, z tłumaczeniem i objaśnieniami. Wybór ABCD, wpisywanie słowa, próba bez podpowiedzi.
+P24: osobny warsztat Wireshark i trzy prawdziwe PCAP. P25: osobny warsztat poleceń Linux z liczeniem, find, strings i chmod.
+Keychanger i NXOC pozostają nieustalone; nie przypisano im zgadywanego klucza.
+
+WCZEŚNIEJSZE NOWOŚCI 1.5
+32 nowe pytania PL i 32 EN: CIA, SOCKS5, MQTT, Lost Mode, Safe Mode Windows 11, GRANT, socket, CVE.
+P22: logi SSH w trzech wariantach. P23: prawdziwe szyfrowane 7z prowadzące do PCAP; format kontenera na egzaminie nie jest potwierdzony.
+Zestaw próby F łączy P22, P23 i P21.
+
+WCZEŚNIEJSZE NOWOŚCI 1.4
+33 nowe pytania PL i 33 EN: obfuskacja, Apple M, szyfrowanie Apple, HDD, Cassandra, migawki, RCS, liczby i czas.
+P21: DEC/HEX, UTC i offsety, Unix s/ms, sekundy od północy, GNU date, zapis pliku i SHA-256.
+Nowe przyciski na Pulpicie prowadzą bezpośrednio do tej aktualizacji.
+
+WCZEŚNIEJSZE NOWOŚCI 1.3
+P18: pliki, HEX, nazwy, metadane i liczba znaków.
+P19: porównanie e-maili, MIME, domeny, IP i rozmiary.
+P20: znaki/bajty UTF-8, przekierowanie cat, rmdir, MAC, PID 1.
+68 nowych pytań PL i 68 EN, mapa pokrycia listy w programie oraz MAPA_ZAGADNIEN.html.
+
+WCZEŚNIEJSZE NOWOŚCI 1.2
+P17: ukryty wolumin VeraCrypt i SVG. 12 nowych pytań PL i 12 EN.
+W każdym scenariuszu wybór ABCD / wpisywanie wyników. Czynności nadal wykonujesz w narzędziach.
+Dodano zestaw próby praktycznej D.
+
+WCZEŚNIEJSZE NOWOŚCI 1.1
+P15: Base64 → secret.txt → VeraCrypt → liczenie plików i katalogów.
+P16: SVG bez Binwalka; find, file, grep i źródło XML.
+Źródłem jest relacja uczestnika. Nowsza relacja wskazuje ukryty wolumin VeraCrypt jako miejsce SVG; dokładne pytania z egzaminu pozostają nieustalone. Materiały kursu są przykładami autorskimi.
+Przed zmianą pliku wyeksportuj postęp JSON ze starej wersji i zaimportuj go w nowej.
+
+ZAWARTOŚĆ
+520 autorskich pytań PL, 647 zadań English, osobna baza 1712 pytań z załącznika, słownik 177 pojęć, 6 ćwiczeń pisemnych EN.
+32 scenariusze praktyki z wariantami A/B/C (PCAP, PGP i FAT12 mają wspólne dane), terminalem, panelami narzędzi, kartami zadań i raportami.
+Powtórki błędów: pięć kolejnych poprawnych odpowiedzi w różnych sesjach.
+Tryb ciemny/jasny, wielkość tekstu, eksport/import postępu, pobieranie całego programu z zapisanym postępem.
+
+WAŻNE O ZAKRESIE
+Terminal i panele Linux/Windows są symulatorem szkoleniowym, nie uruchamiają rzeczywistych systemów ani narzędzi. Pobrane archiwa, EML, JPEG/PNG, PGP, PCAP i obraz FAT12 są rzeczywistymi danymi do pracy zewnętrznej. Prawdziwego kontenera VeraCrypt i maszyny wirtualnej nie dołączono.
+Baza 1712 pytań pochodzi z przesłanego ZIP i nie została w całości zweryfikowana merytorycznie.
+To materiał edukacyjny, nie oficjalna baza pytań egzaminacyjnych.
+
+WERYFIKACJA
+Testy kodu sprawdziły logikę pytań, powtórki, zapis i odtworzenie, obliczenia hashy oraz pliki i łańcuchy praktyczne. Pełnego testu wyglądu i obsługi w przeglądarce na Windows nie przeprowadzono; otwarcie lokalnego pliku w przeglądarce testowej zostało zablokowane przez politykę środowiska.
